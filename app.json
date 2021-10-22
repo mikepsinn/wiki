@@ -4,7 +4,7 @@
   "repository": "https://github.com/mikepsinn/wiki/tree/mediawiki-redirect",
   "logo": "https://static.requarks.io/logo/wikijs-butterfly.svg",
   "keywords": ["node", "wiki", "heroku"],
-  "website": "https://wiki.js.org/",
+  "website": "https://wiki.crowdsourcingcures.org/",
   "success_url": "/",
   "addons": [
     {
