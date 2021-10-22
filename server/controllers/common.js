@@ -12,6 +12,13 @@ const tmplCreateRegex = /^[0-9]+(,[0-9]+)?$/
 /**
  * Robots.txt
  */
+router.get('/wiki/*', (req, res, next) => {
+  res.redirect('https://mediawiki.CrowdsourcingCures.org' + req.path)
+})
+
+/**
+ * Robots.txt
+ */
 router.get('/robots.txt', (req, res, next) => {
   res.type('text/plain')
   if (_.includes(WIKI.config.seo.robots, 'noindex')) {
