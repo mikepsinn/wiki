@@ -60,6 +60,25 @@ Support this project by becoming a sponsor. Your name will show up in the Contri
 <table>
   <tbody>
     <tr>
+      <td align="center" valign="middle" width="444">
+        <a href="https://www.stellarhosted.com/" target="_blank">
+          <img src="https://cdn.js.wiki/images/sponsors/stellarhosted.png">
+        </a>
+      </td>
+      <td align="center" valign="middle" width="444">
+        <a href="https://www.hostwiki.com/" target="_blank">
+          <img src="https://cdn.js.wiki/images/sponsors/hostwiki.png">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<div align="center">
+<table>
+  <tbody>
+    <tr>
       <td align="center" valign="middle" width="148">
         <a href="https://github.com/alexksso" target="_blank">
           Alexander Casassovici<br />(@alexksso)
@@ -246,6 +265,23 @@ Support this project by becoming a sponsor. Your logo will show up in the Contri
       </td>
       <td align="center" valign="middle">
         <a href="https://opencollective.com/wikijs/sponsor/29/website" target="_blank"><img src="https://opencollective.com/wikijs/sponsor/29/avatar.svg"></a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle">
+        <a href="https://opencollective.com/wikijs/sponsor/30/website" target="_blank"><img src="https://opencollective.com/wikijs/sponsor/30/avatar.svg"></a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="https://opencollective.com/wikijs/sponsor/31/website" target="_blank"><img src="https://opencollective.com/wikijs/sponsor/31/avatar.svg"></a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="https://opencollective.com/wikijs/sponsor/32/website" target="_blank"><img src="https://opencollective.com/wikijs/sponsor/32/avatar.svg"></a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="https://opencollective.com/wikijs/sponsor/33/website" target="_blank"><img src="https://opencollective.com/wikijs/sponsor/33/avatar.svg"></a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="https://opencollective.com/wikijs/sponsor/34/website" target="_blank"><img src="https://opencollective.com/wikijs/sponsor/34/avatar.svg"></a>
       </td>
     </tr>
   </tbody>
